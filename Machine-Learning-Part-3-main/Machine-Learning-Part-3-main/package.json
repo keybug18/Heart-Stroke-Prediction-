@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "steamlit": "^1.0.0",
+    "streamlit": "^2.51.2"
+  }
+}
